@@ -1,0 +1,1 @@
+// Simple Preferences.h#ifndef kAlt_Preferences_h#define kAlt_Preferences_hBoolean EasyOpenPreferenceFile( StringPtr, OSType, OSType, short *);#endif kAlt_Preferences_h

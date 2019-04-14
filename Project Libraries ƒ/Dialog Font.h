@@ -1,0 +1,1 @@
+// Dialog Fontvoid SetDialogFontAndSize( DialogPtr, short, short);

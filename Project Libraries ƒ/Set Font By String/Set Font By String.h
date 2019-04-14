@@ -1,0 +1,1 @@
+// Set Font By String.h#ifndef Set_Font_By_String_h#define Set_Font_By_String_hshort GetFontNumByString( StringPtr);void SetFontByString( StringPtr);void SetFontByIndString( short, short);void SetFontAndSizeByIndString( short, short);short GetFontNumByIndString( short, short);#endif Set_Font_By_String_h
